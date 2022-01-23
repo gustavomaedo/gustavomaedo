@@ -1,6 +1,6 @@
 # Forus: A rede social brasileira!
 
-<a href="https://forus.app" target="_blank"><img src="https://forus.app/website-preview-pt.jpg" target="_blank"></a>
+<a href="https://forus.app" target="_blank"><img src="https://forus.app/images/website-preview-pt.jpg" target="_blank"></a>
 
 ## Gustavo Maedo
 
