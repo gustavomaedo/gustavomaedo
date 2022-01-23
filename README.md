@@ -1,6 +1,6 @@
-# Apptime: sites e apps do seu jeito!
+# Forus: A rede social brasileira!
 
-<a href="https://apptime.com.br" target="_blank"><img src="https://apptime.com.br/apptime-square-150.png" target="_blank"></a>
+<a href="https://forus.app" target="_blank"><img src="https://forus.app/website-preview-pt.jpg" target="_blank"></a>
 
 ## Gustavo Maedo
 
