@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Gustavo Maedo, founder at Forus Social Network!
+I'm Gustavo Maedo, founder at Forus App!
 Find out more about this Brazilian project below and get to know our community!
 ## Forus: The brazillian social network for the future!
 
