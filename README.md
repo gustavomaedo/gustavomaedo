@@ -1,38 +1,21 @@
 ## Hi there! 👋
-I'm Gustavo Maedo, founder at Forus App!
+I'm Gustavo Akira, founder at Apptime!
 Find out more about this Brazilian project below and get to know our community!
-## Forus: The brazillian social network for the future!
 
-Forus is a brazillian social network developed by students. Our goal is to bring more freedom, customization and monetization to content creators.
-
-Check out the Forus website now and download the app for Android and iOS!
-
-<a href="https://forus.app" target="_blank"><img height="200em" src="https://forus.app/images/website-preview-en.jpg" target="_blank"></a>
-
-## Forus Community
-
-Since then, the Forus Community has been created to make open source libraries available through GitHub. We want to create a large community that can help Forus grow and also make tutorials, templates and source codes available for free to use in any other projects.
-
-You can join our community on [GitHub](https://github.com/foruscommunity) and [Discord](https://discord.gg/rsJJ3dqF7D). Everyone is welcome!
-
-Follow us on Forus:
-
-[@forus](https://forus.app/forus)
-
-[@forusbr](https://forus.app/forusbr)
+<a href="https://apptime.dev" target="_blank"><img height="200em" src="https://apptime.dev/images/website-preview-en.jpg" target="_blank"></a>
 
 <div> 
-  <a href="https://instagram.com/forus.app" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/apptimedev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  <a href="https://www.linkedin.com/company/forusapp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/company/apptimedev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/forus) 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/apptime) 
 
 ## My GitHub
 
  <div>
-  <a href="https://apptime.com.br">
+  <a href="https://apptime.dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomaedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomaedo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
