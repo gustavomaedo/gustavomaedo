@@ -2,7 +2,7 @@
 I'm Gustavo Akira, founder at Apptime!
 Find out more about this Brazilian project below and get to know our community!
 
-<a href="https://apptime.dev" target="_blank"><img height="200em" src="https://apptime.dev/images/website-preview-en.jpg" target="_blank"></a>
+<a href="https://apptime.dev" target="_blank"><img height="200em" src="https://apptime.dev/images/website-preview.jpg" target="_blank"></a>
 
 <div> 
   <a href="https://instagram.com/apptimedev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
