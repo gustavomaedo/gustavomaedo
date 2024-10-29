@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Gustavo Akira, founder of the Brazilian social network Forus and the subscription software house Apptime. We are looking for partners and partnerships, join us!
+I'm Gustavo Akira, founder of the Brazilian social network Forus and the app builder Apptime. We are looking for partners and partnerships, join us!
 
 <a href="https://apptime.dev" target="_blank"><img height="200em" src="https://apptime.dev/images/website-preview.jpg" target="_blank"></a>
 
