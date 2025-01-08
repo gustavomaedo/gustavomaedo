@@ -1,9 +1,11 @@
 ## Hi there! 👋
 I'm Gustavo Akira, founder of the Brazilian content platform Forus and the page builder Apptime. We are looking for partners and partnerships, join us!
 
+<div>
 <a href="https://appti.me" target="_blank"><img height="120em" src="https://appti.me/images/website-preview.jpg" target="_blank"></a>
 
 <a href="https://forus.app" target="_blank"><img height="120em" src="https://forus.app/images/website-preview.jpg" target="_blank"></a>
+</div>
 
 Experience in leadership and mobile development with Flutter, Android and iOS, and with a focus on UI/UX Design and Clean Architecture. I also have experience in full-stack, from front-end to back-end, database and dev-ops, such as chat, camera, maps and location systems for a large scale of simultaneous users.
 
